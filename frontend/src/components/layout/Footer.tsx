@@ -34,12 +34,12 @@ export function Footer({ className }: FooterProps) {
             <span>Copyright 2026</span>
             <span className="hidden md:inline">|</span>
             <a
-              href="https://www.openalgo.in"
+              href="https://tratonomous.in"
               className="text-primary hover:underline font-medium"
               target="_blank"
               rel="noopener noreferrer"
             >
-              www.openalgo.in
+              tratonomous.in
             </a>
           </div>
           <span className="hidden md:inline">|</span>
@@ -57,7 +57,7 @@ export function Footer({ className }: FooterProps) {
         <div className="flex justify-center gap-2 mt-4">
           <Button variant="ghost" size="icon" asChild className="h-8 w-8">
             <a
-              href="https://github.com/marketcalls/openalgo"
+              href="https://github.com/tratonomous-crypto/tratonomous"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -73,7 +73,7 @@ export function Footer({ className }: FooterProps) {
             title="Join our Discord community"
           >
             <a
-              href="https://openalgo.in/discord"
+              href="https://tratonomous.in/discord"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Discord"
@@ -85,7 +85,7 @@ export function Footer({ className }: FooterProps) {
           </Button>
           <Button variant="ghost" size="icon" asChild className="h-8 w-8" title="Follow us on X">
             <a
-              href="https://x.com/openalgoHQ"
+              href="https://x.com/tratonomous"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="X (Twitter)"
@@ -103,7 +103,7 @@ export function Footer({ className }: FooterProps) {
             title="Subscribe to our YouTube channel"
           >
             <a
-              href="https://www.youtube.com/@openalgo"
+              href="https://www.youtube.com/@tratonomous"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="YouTube"
